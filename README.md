@@ -10,8 +10,7 @@
 
 
 
-- 🌱 I’m currently learning **Artificial Intelligence Foundational Training Program**
-
+- 🌱 I’m presently enrolled in an ongoing 20-Sunday **Artificial Intelligence Foundational program** organized by GovTech Bhutan
 - ⚡ Fun fact **Jack of all trades**
 
 <h3 align="left">Languages and Tools:</h3>
