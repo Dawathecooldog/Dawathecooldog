@@ -4,9 +4,10 @@
 <br/><br/>
 
 <div align="center">
-<img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+  <img src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" alt="Coder" width="400" height="250" />
+  <p style="font-size:12px;">GIF credit: <a href="https://github.com/raghavk16" target="_blank">Raghav K</a></p>
 </div>
-<br/>
+
 
 
 - 🌱 I’m currently learning **Artificial Intelligence Foundational Training Program**
